@@ -1,0 +1,8 @@
+[_] fix proper exit cleaning up systrayicon
+[_] add right-click context menu with: restart apache, restart mysql, exit
+[_] remove SVN checkboxes
+[_] add buttons for: edit php.ini, httpd-vhost.conf, and open zend core directory in windows explorer
+[_] get the window to start either centered, or bottom right of screen, or in remembering last position
+[_] restore window (in case it was minimized earlier) on sys tray icon click
+
+[_] make it so only one instance of app can run at once. if user clicks twice second one will exit.

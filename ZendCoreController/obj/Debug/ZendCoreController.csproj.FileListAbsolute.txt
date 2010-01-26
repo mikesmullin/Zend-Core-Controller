@@ -1,0 +1,8 @@
+C:\Documents and Settings\Mike Smullin\My Documents\Visual Studio 2008\Projects\ZendCoreController\ZendCoreController\bin\Debug\ZendCoreController.exe
+C:\Documents and Settings\Mike Smullin\My Documents\Visual Studio 2008\Projects\ZendCoreController\ZendCoreController\bin\Debug\ZendCoreController.pdb
+C:\Documents and Settings\Mike Smullin\My Documents\Visual Studio 2008\Projects\ZendCoreController\ZendCoreController\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mike Smullin\My Documents\Visual Studio 2008\Projects\ZendCoreController\ZendCoreController\obj\Debug\ZendCoreController.csproj.GenerateResource.Cache
+C:\Documents and Settings\Mike Smullin\My Documents\Visual Studio 2008\Projects\ZendCoreController\ZendCoreController\obj\Debug\ZendCoreController.exe
+C:\Documents and Settings\Mike Smullin\My Documents\Visual Studio 2008\Projects\ZendCoreController\ZendCoreController\obj\Debug\ZendCoreController.pdb
+C:\Documents and Settings\Mike Smullin\My Documents\Visual Studio 2008\Projects\ZendCoreController\ZendCoreController\obj\Debug\ZendCoreController.main.resources
+C:\Documents and Settings\Mike Smullin\My Documents\Visual Studio 2008\Projects\ZendCoreController\ZendCoreController\obj\Debug\ZendCoreController.Properties.Resources.resources
